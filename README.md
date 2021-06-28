@@ -6,11 +6,11 @@
 
 ## It’s how to manage your thinking and overcome obstacles to reach success
 
-# The obstacles: #
+**The obstacles:**
 
 - Criticism
 - Fatigue
-- Sarcasm
+- *Sarcasm*
 
 
 My Info:
@@ -19,4 +19,4 @@ My names is Anas Abuhatab I’m 24 years old. I am a solar engineer. I like soft
 
 My github link:
 
- https://github.com/Anas-Abuhatab 
+1. [!my link](https://github.com/Anas-Abuhatab)  
