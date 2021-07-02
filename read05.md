@@ -18,6 +18,7 @@ Loops offer a quick and easy way to do something repeatedly.
 #### while statement 
 `look like :while (condition)
   statement`
-  ###### :stop_sign: Avoid infinite loops. Make sure the condition in a loop eventually becomes false—otherwise, the loop will never terminate! The statements in the following while loop execute forever because the condition never becomes false 
+
+###### :stop_sign: Avoid infinite loops. Make sure the condition in a loop eventually becomes false—otherwise, the loop will never terminate! The statements in the following while loop execute forever because the condition never becomes false 
 
  
