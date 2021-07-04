@@ -12,5 +12,3 @@ My names is Anas Abuhatab I’m 24 years old. I am a solar engineer. I like soft
 6-|read05|[Operators and Loops](https://anas-abuhatab.github.io/Reading-notes/read05)
 7-|read06|[Design web pages with CSS](https://anas-abuhatab.github.io/Reading-notes/read06)
 8-|read07|[Programming with JavaScript](https://anas-abuhatab.github.io/Reading-notes/read07)
-7-|read06|[Design web pages with CSS](https://anas-abuhatab.github.io/Reading-notes/read06)
-
