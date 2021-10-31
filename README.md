@@ -8,6 +8,7 @@ This web site is about reading note for each course
 ## Code 102 - Intro to Software Development
 
 ### Table of contents
+
 ---|Name|link
 ---|---|---
 1-|growth|[Learning Markdown](https://anas-abuhatab.github.io/Reading-notes/102/growth)
@@ -22,6 +23,7 @@ This web site is about reading note for each course
 ## Code 201 - Foundations of Software Development
 
 ### Table of contents
+
 ---|Name|link
 ---|---|---
 1-|class-01|[Introductory HTML and JavaScript](https://anas-abuhatab.github.io/Reading-notes/201/class-01)
@@ -44,6 +46,7 @@ This web site is about reading note for each course
 ## Code 301 - Foundations of Software Development
 
 ### Table of contents
+
 ---|Name|link
 ---|---|---
 1-|Read-01|[Introduction to React and Components](https://anas-abuhatab.github.io/Reading-notes/301/Read01)
@@ -65,6 +68,7 @@ This web site is about reading note for each course
 ## Code 401 - Foundations of Software Development
 
 ### Table of contents
+
 ---|Name|link
 ---|---|---
 1-|Read-01|[Topic](https://anas-abuhatab.github.io/Reading-notes/401/Read01)
