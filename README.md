@@ -43,7 +43,7 @@ This web site is about reading note for each course
 15-|class-14b|[What Google Learned About Teams](https://anas-abuhatab.github.io/Reading-notes/201/class-14b)
 
 
-## Code 301 - Foundations of Software Development
+## Code 301 - Intermediate Software Development
 
 ### Table of contents
 
@@ -65,7 +65,7 @@ This web site is about reading note for each course
 14-|Read-14|[Authentication](https://anas-abuhatab.github.io/Reading-notes/301/Read14)
 15-|Read-15|[Project Idea](https://anas-abuhatab.github.io/Reading-notes/301/Read15)
 
-## Code 401 - Foundations of Software Development
+## Code 401 - Advanced Software Development
 
 ### Table of contents
 
