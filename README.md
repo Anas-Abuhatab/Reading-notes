@@ -72,3 +72,4 @@ This web site is about reading note for each course
 ---|Name|link
 ---|---|---
 1-|Read-01|[Topic](https://anas-abuhatab.github.io/Reading-notes/401/Read01)
+2-|Read-02|[Testing and Modules](https://anas-abuhatab.github.io/Reading-notes/401/Read02)
