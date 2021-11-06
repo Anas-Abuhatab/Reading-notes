@@ -76,3 +76,4 @@ This web site is about reading note for each course
 3-|Read-03|[FileIO & Exceptions](https://anas-abuhatab.github.io/Reading-notes/401/Read03)
 4-|Read-04|[Classes, Objects, Pytest, and Thinking Recursively](https://anas-abuhatab.github.io/Reading-notes/401/Read04)
 5-|Read-05|[Linked Lists](https://anas-abuhatab.github.io/Reading-notes/401/Read05)
+6-|Read-06|[Game of Greed 1](https://anas-abuhatab.github.io/Reading-notes/401/Read06)
