@@ -78,3 +78,4 @@ This web site is about reading note for each course
 5-|Read-05|[Linked Lists](https://anas-abuhatab.github.io/Reading-notes/401/Read05)
 6-|Read-06|[Game of Greed 1](https://anas-abuhatab.github.io/Reading-notes/401/Read06)
 7-|Read-07|[Game of Greed 2](https://anas-abuhatab.github.io/Reading-notes/401/Read07)
+8-|Read-08|[Game of Greed 3](https://anas-abuhatab.github.io/Reading-notes/401/Read08)
