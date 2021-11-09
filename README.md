@@ -70,7 +70,7 @@ This web site is about reading note for each course
 ### Table of contents
 
 ---|Name|link
----|---|---
+:---|:---|:---
 1-|Read-01|[Topic](https://anas-abuhatab.github.io/Reading-notes/401/Read01)
 2-|Read-02|[Testing and Modules](https://anas-abuhatab.github.io/Reading-notes/401/Read02)
 3-|Read-03|[FileIO & Exceptions](https://anas-abuhatab.github.io/Reading-notes/401/Read03)
@@ -79,3 +79,4 @@ This web site is about reading note for each course
 6-|Read-06|[Game of Greed 1](https://anas-abuhatab.github.io/Reading-notes/401/Read06)
 7-|Read-07|[Game of Greed 2](https://anas-abuhatab.github.io/Reading-notes/401/Read07)
 8-|Read-08|[Game of Greed 3](https://anas-abuhatab.github.io/Reading-notes/401/Read08)
+9-|Read-09|[Game of Greed 4](https://anas-abuhatab.github.io/Reading-notes/401/Read09)
