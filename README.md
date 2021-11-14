@@ -82,3 +82,4 @@ This web site is about reading note for each course
 9-|Read-09|[Game of Greed 4](https://anas-abuhatab.github.io/Reading-notes/401/Read09)
 10-|Read-10|[Stacks and Queues](https://anas-abuhatab.github.io/Reading-notes/401/Read10)
 11-|Read-11|[Data Analysis](401/Read11.md)
+12-|Read-12|[Pandas in 10](401/Read12.md)
