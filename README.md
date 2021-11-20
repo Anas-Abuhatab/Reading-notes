@@ -86,3 +86,4 @@ This web site is about reading note for each course
 13-|Read-13|[Linear Regressions](401/Read13.md)
 14-|Read-14|[Data Visualization](401/Read14.md)
 15-|Read-15|[Trees](401/Read15.md)
+16-|Read-16|[Machine Learning Intro](401/Read16.md)
