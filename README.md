@@ -88,3 +88,4 @@ This web site is about reading note for each course
 15-|Read-15|[Trees](401/Read15.md)
 16-|Read-16|[Machine Learning Intro](401/Read16.md)
 17-|Read-17|[Web Scraping](401/Read17.md)
+18-|Read-18|[Automation](401/Read18.md)
