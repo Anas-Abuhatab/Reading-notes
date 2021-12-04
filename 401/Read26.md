@@ -86,27 +86,7 @@ admin.site.register(Band)  # Use the default options
 admin.site.register(Member, MemberAdmin)  # Use the customized options
 ```
 - Internationalization: lets developers and template authors specify which parts of their apps should be translated or formatted for local languages and cultures, and it uses these hooks to localize Web applications for particular users according to their preferences. Example: 
-``` 
-from django.shortcuts import render
-from django.utils.translation import gettext
 
-def homepage(request):
-    """
-    Shows the homepage with a welcome message that is translated in the
-    user's language.
-    """
-    message = gettext('Welcome to our site!')
-    return render(request, 'homepage.html', {'message': message})
-      
-{% load i18n %}
-<html>
-  <head>
-    <title>{% trans 'Homepage - Hall of Fame' %}</title>
-  </head>
-  <body>
-    {# Translated in the view: #}
-    <h1>{{ message }}</h1>
-```
 
 - Security: Django provides protection against:
     1. Clickjacking
