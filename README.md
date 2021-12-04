@@ -103,3 +103,5 @@ sudo pkill node |used for kill all PID server|-
 17-|Read-17|[Web Scraping](401/Read17.md)
 18-|Read-18|[Automation](401/Read18.md)
 19-|Read-26|[Intro to Django](401/Read26.md)
+20-|Read-27|[Django Models](401/Read27.md)
+
