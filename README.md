@@ -4,6 +4,19 @@ My names is Anas Abuhatab I’m 25 years old. I am a solar engineer. I like soft
 
 This web site is about reading note for each course 
 
+## MY_NOTES:
+
+### Table of contents
+
+Code|Description|Link
+:---|:---|:---
+netsh int ip reset|used in CMD(adminstrator)  for reset all connection|-
+sudo pkill node |used for kill all PID server|-
+-|setup-guide(Ubuntu)|[setup-guide](https://codefellows.github.io/setup-guide/)
+-|react-cheet cheat|[react-cheet cheat](https://ltuc.github.io/301-react-cheatsheet/content/mongoose.html)
+-|API_store|[API_store](https://github.com/public-apis/public-apis)
+-|Python Installation|[Python Installation](https://codefellows.github.io/code-401-python-guide/curriculum/prework/setup)
+
 
 ## Code 102 - Intro to Software Development
 
@@ -89,3 +102,4 @@ This web site is about reading note for each course
 16-|Read-16|[Machine Learning Intro](401/Read16.md)
 17-|Read-17|[Web Scraping](401/Read17.md)
 18-|Read-18|[Automation](401/Read18.md)
+19-|Read-26|[Intro to Django](401/Read26.md)
