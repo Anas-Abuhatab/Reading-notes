@@ -103,8 +103,6 @@ def renew_book_librarian(request, pk):
 - use @login_required to require that the user is logged in.
 - Template example:
 
-- {% csrf_token %} reduces the chance of forms being hijacked by malicious users.
-- Example using ModelForm:
 ```
 from django.forms import ModelForm
 
