@@ -16,6 +16,7 @@ sudo pkill node |used for kill all PID server|-
 -|react-cheet cheat|[react-cheet cheat](https://ltuc.github.io/301-react-cheatsheet/content/mongoose.html)
 -|API_store|[API_store](https://github.com/public-apis/public-apis)
 -|Python Installation|[Python Installation](https://codefellows.github.io/code-401-python-guide/curriculum/prework/setup)
+-|django cheat_sheet|[cheat_sheet](https://github.com/LTUC/amman-python-401d7/tree/main/cheatsheet)
 
 
 ## Code 102 - Intro to Software Development
@@ -104,4 +105,5 @@ sudo pkill node |used for kill all PID server|-
 18-|Read-18|[Automation](401/Read18.md)
 19-|Read-26|[Intro to Django](401/Read26.md)
 20-|Read-27|[Django Models](401/Read27.md)
+21-|Read-28|[Django CRUD and Forms](401/Read28.md)
 
