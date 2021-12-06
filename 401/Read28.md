@@ -103,7 +103,6 @@ def renew_book_librarian(request, pk):
 - use @login_required to require that the user is logged in.
 - Template example:
 ```
-    {% extends "base_generic.html" %}
 
 {% block content %}
   <h1>Renew: {{ book_instance.book.title }}</h1>
