@@ -106,4 +106,6 @@ sudo pkill node |used for kill all PID server|-
 19-|Read-26|[Intro to Django](401/Read26.md)
 20-|Read-27|[Django Models](401/Read27.md)
 21-|Read-28|[Django CRUD and Forms](401/Read28.md)
+22-|Read-29|[Django Custom User](401/Read29.md)
+
 
