@@ -110,6 +110,8 @@ sudo pkill node |used for kill all PID server|-
 23-|Read-30|[Hash Tables](401/Read30.md)
 24-|Read-31|[Django REST Framework & Docker](401/Read31.md)
 25-|Read-32|[Permissions & Postgresql](401/Read32.md)
+26-|Read-33|[Authentication & Production Server](401/Read33.md)
+
 
 
 
