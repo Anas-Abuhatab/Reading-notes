@@ -17,6 +17,10 @@ sudo pkill node |used for kill all PID server|-
 -|API_store|[API_store](https://github.com/public-apis/public-apis)
 -|Python Installation|[Python Installation](https://codefellows.github.io/code-401-python-guide/curriculum/prework/setup)
 -|django cheat_sheet|[cheat_sheet](https://github.com/LTUC/amman-python-401d7/tree/main/cheatsheet)
+poetry export -f requirements.txt -o requirements.txt --without-hashes|make requirements for build docker|-
+
+
+
 
 
 ## Code 102 - Intro to Software Development
@@ -111,6 +115,8 @@ sudo pkill node |used for kill all PID server|-
 24-|Read-31|[Django REST Framework & Docker](401/Read31.md)
 25-|Read-32|[Permissions & Postgresql](401/Read32.md)
 26-|Read-33|[Authentication & Production Server](401/Read33.md)
+27-|Read-34|[API Deployment](401/Read34.md)
+
 
 
 
