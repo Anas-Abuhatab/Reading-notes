@@ -116,6 +116,8 @@ poetry export -f requirements.txt -o requirements.txt --without-hashes|make requ
 25-|Read-32|[Permissions & Postgresql](401/Read32.md)
 26-|Read-33|[Authentication & Production Server](401/Read33.md)
 27-|Read-34|[API Deployment](401/Read34.md)
+28-|Read-35|[Graphs](401/Read35.md)
+
 
 
 
