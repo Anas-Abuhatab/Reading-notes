@@ -121,3 +121,5 @@ poetry export -f requirements.txt -o requirements.txt --without-hashes|make requ
 30-|Read-37|[React 1](401/Read37.md)
 31-|Read-38|[React 2](401/Read38.md)
 32-|Read-39|[React 3](401/Read39.md)
+33-|Read-41|[React 4](401/Read41.md)
+34-|Read-42|[Pythonisms](401/Read42.md)
